@@ -1,0 +1,9 @@
+# UTAU sequence text
+*.ust
+
+# MML text
+*.fml
+*.mml
+
+# git files
+!.gitignore
