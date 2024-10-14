@@ -1,6 +1,6 @@
 # ust2kiko Version 0.1
 
-UTAUのUSTファイルから歌書キコのボーカルパートを生成します。  
+UTAUのUSTファイルから[歌書キコ](https://nico.ms/dic/4863390)のボーカルパートを生成します。  
 
 ## 使い方
 `ust2kiko <入力ファイル> <出力ファイル>`  
@@ -40,6 +40,6 @@ FlMMLのティック数から音長指定に変換する処理について、[�
 - 初版公開
 
 ## お問い合わせ
-- ニコニコ大百科: [u/88810887](https://nico.ms/dic/5634924)
 - Twitter: [@user_88810887](https://twitter.com/user_88810887)
+- Fediverse (Misskey): [@grj1234@misskey.04.si](https://misskey.04.si/@grj1234)
 - メールアドレス: grj1234@protonmail.com
